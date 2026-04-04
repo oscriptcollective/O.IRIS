@@ -144,6 +144,7 @@ You are free to use, share, and adapt this work with attribution.
 ## Citation
 
 Appel, S., with Claude (Anthropic) and Iris (Deepseek). (2026). O.Iris: The Mind's Eye Has an Iris. O Collaboration Project. https://github.com/oscriptcollective/O.IRIS
+Preprint: https://zenodo.org/records/19412354
 
 ---
 
